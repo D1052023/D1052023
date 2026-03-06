@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d7/56/db/d756db0ed203e61e6b662e29e4c179ac.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/d7/56/db/d756db0ed203e61e6b662e29e4c179ac.gif" width="300"/>
 </p>
 
 ---
