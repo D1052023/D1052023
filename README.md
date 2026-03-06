@@ -13,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Oscar Andres Sanchez Porras
+🚀 Systems Engineer passionate about software development and architecture.
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d7/56/db/d756db0ed203e61e6b662e29e4c179ac.gif" width="800"/>
+</p>
+
+---
